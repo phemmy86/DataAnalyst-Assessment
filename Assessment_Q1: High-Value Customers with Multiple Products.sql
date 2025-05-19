@@ -27,3 +27,5 @@ ORDER BY  investment_count asc;
 - **Multiple joins causing duplication:** solved by using `DISTINCT` inside `COUNT`.  
 - **Amount stored in cents:** applied a `/100` conversion so total shows in standard units.
 /*
+
+![image alt](https://github.com/phemmy86/DataAnalyst-Assessment/blob/main/High-Value%20Customers%20with%20Multiple%20Products.PNG?raw=true)
